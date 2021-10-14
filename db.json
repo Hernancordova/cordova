@@ -1,10 +1,36 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "posts":[
+  {
+    "date": "2021-10-15T14:54:59.8079054-05:00",
+    "temperatureC": 47,
+    "temperatureF": 116,
+    "summary": "Sweltering"
+  },
+  {
+    "date": "2021-10-16T14:54:59.8082465-05:00",
+    "temperatureC": 34,
+    "temperatureF": 93,
+    "summary": "Cool"
+  },
+  {
+    "date": "2021-10-17T14:54:59.8082487-05:00",
+    "temperatureC": -11,
+    "temperatureF": 13,
+    "summary": "Cool"
+  },
+  {
+    "date": "2021-10-18T14:54:59.808249-05:00",
+    "temperatureC": 35,
+    "temperatureF": 94,
+    "summary": "Bracing"
+  },
+  {
+    "date": "2021-10-19T14:54:59.8082492-05:00",
+    "temperatureC": 42,
+    "temperatureF": 107,
+    "summary": "Mild"
+  }
+],
   "profile": {
     "name": "typicode"
   }
