@@ -1,34 +1,70 @@
 {
   "posts":[
   {
-    "date": "2021-10-15T14:54:59.8079054-05:00",
-    "temperatureC": 47,
-    "temperatureF": 116,
-    "summary": "Sweltering"
+    "codigo": "2",
+    "comisionFija": "0.000",
+    "comisionMixtra": "-2.000",
+    "comisionMixtaAnual": "-4.000",
+    "primaSeguro": "0.000",
+    "comisionFijaFlujo": "-3.000",
+    "porcentajeObligatoriaAFP": "-7.000",
+    "remuneracionMaxima": "-4.000",
+    "nombre": "ONP"
   },
   {
-    "date": "2021-10-16T14:54:59.8082465-05:00",
-    "temperatureC": 34,
-    "temperatureF": 93,
-    "summary": "Cool"
+    "codigo": "3",
+    "comisionFija": "2.400",
+    "comisionMixtra": "15.000",
+    "comisionMixtaAnual": "10.000",
+    "primaSeguro": "12.000",
+    "comisionFijaFlujo": "2.000",
+    "porcentajeObligatoriaAFP": "10.000",
+    "remuneracionMaxima": "12.000",
+    "nombre": "PRIMA AFP"
   },
   {
-    "date": "2021-10-17T14:54:59.8082487-05:00",
-    "temperatureC": -11,
-    "temperatureF": 13,
-    "summary": "Cool"
+    "codigo": "4",
+    "comisionFija": "23.000",
+    "comisionMixtra": "23.000",
+    "comisionMixtaAnual": "23.000",
+    "primaSeguro": "23.000",
+    "comisionFijaFlujo": "23.000",
+    "porcentajeObligatoriaAFP": "23.000",
+    "remuneracionMaxima": "23.000",
+    "nombre": "habitat AFP"
   },
   {
-    "date": "2021-10-18T14:54:59.808249-05:00",
-    "temperatureC": 35,
-    "temperatureF": 94,
-    "summary": "Bracing"
+    "codigo": "5",
+    "comisionFija": "10.000",
+    "comisionMixtra": "12.000",
+    "comisionMixtaAnual": "12.000",
+    "primaSeguro": "12.000",
+    "comisionFijaFlujo": "12.000",
+    "porcentajeObligatoriaAFP": "12.000",
+    "remuneracionMaxima": "12.000",
+    "nombre": "PROFUTURO"
   },
   {
-    "date": "2021-10-19T14:54:59.8082492-05:00",
-    "temperatureC": 42,
-    "temperatureF": 107,
-    "summary": "Mild"
+    "codigo": "6",
+    "comisionFija": "-3.000",
+    "comisionMixtra": "-5.000",
+    "comisionMixtaAnual": "-2.000",
+    "primaSeguro": "-5.000",
+    "comisionFijaFlujo": "-7.000",
+    "porcentajeObligatoriaAFP": "-8.000",
+    "remuneracionMaxima": "-10.000",
+    "nombre": "asd"
+  },
+  {
+    "codigo": "7",
+    "comisionFija": "0.000",
+    "comisionMixtra": "0.000",
+    "comisionMixtaAnual": "0.000",
+    "primaSeguro": "0.000",
+    "comisionFijaFlujo": "0.000",
+    "porcentajeObligatoriaAFP": "0.000",
+    "remuneracionMaxima": "0.000",
+    "nombre": "string"
   }
 ],
   "profile": {
